@@ -1,0 +1,2 @@
+# ilkpythonkurumlari
+İGÜ - İSTKA - SİBER AKADEMİ - VERİ YAPILARI VE ALGORİTMALARI DERSİNİN İLK ÇIKTISIDIR.
